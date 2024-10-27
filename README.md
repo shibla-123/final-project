@@ -1,3 +1,4 @@
+DATA SET: https://data.world/agriculture/china-agro-econ-data/workspace/file?filename=provincialdata.xls
 # Predicting Agricultural Production Quantities Using Machine Learning
 ## OVERVIEW
 ##### This project focuses on analyzing and predicting agricultural production quantities for various commodities across different regions and years. Agricultural production data, encompassing categories such as crop production, livestock inventory, and aquatic products, is essential for understanding trends in food supply and supporting effective planning in the agriculture sector.
